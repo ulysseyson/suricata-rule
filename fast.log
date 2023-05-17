@@ -1,0 +1,7 @@
+05/17/2023-05:53:09.954883  [**] [1:10004:1] youtube.com access (HTTPS) [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:56008 -> 142.250.204.142:443
+05/17/2023-05:53:20.084940  [**] [1:10002:1] google.com access (HTTPS) [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:35044 -> 142.250.204.77:443
+05/17/2023-05:53:34.051046  [**] [1:10004:1] youtube.com access (HTTPS) [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:60066 -> 142.250.199.78:443
+05/17/2023-05:54:08.069584  [**] [1:10002:1] google.com access (HTTPS) [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:46876 -> 172.217.25.14:443
+05/17/2023-05:54:08.192695  [**] [1:10002:1] google.com access (HTTPS) [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:46888 -> 172.217.25.14:443
+05/17/2023-05:54:39.120711  [**] [1:10033:1] qq.com access (HTTP) [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:50526 -> 61.129.7.47:80
+05/17/2023-05:54:39.302256  [**] [1:10034:1] qq.com access (HTTPS) [**] [Classification: (null)] [Priority: 3] {TCP} 10.0.2.15:33552 -> 23.42.115.157:443
